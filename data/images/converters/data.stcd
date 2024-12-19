@@ -1,0 +1,7 @@
+(supertux-converter-data
+  (nightly_all_tiles.sttc
+    (title (_ "Nightly Tiles"))
+    (author "SuperTux Team")
+    (description (_ "For levels, created in previous Nightly builds."))
+  )
+)
