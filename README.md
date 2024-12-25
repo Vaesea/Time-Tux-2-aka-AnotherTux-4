@@ -12,21 +12,26 @@ Things are more organized here too because I prefer everything to be organized, 
 
 All normal SuperTux songs are/will be remade / remixed / replaced.
 
-There are 5 main worlds and there are past versions of 4 of them. 6 main worlds if you count the past version of Giant Sewers which is a whole new world named Mountain Mines (yes the entire mountain was knocked down by nolok to create some sewers)
+There are 5 main worlds and there are past versions of 4 of them. 6 main worlds if you count the past version of Sickly Sewers which is a whole new world named Mountain Mines (yes the entire mountain was knocked down by nolok to create some sewers)
 
 Each world has a mininum of 3 levels, however, some worlds may have more or less. Basically like Sonic zones.
 
 This mod's levels will be somewhat like Sonic levels but a bit less complicated.
 
+The main villain is not Nolok, but is named Emlok (an emperor penguin with a similar name to nolok)
+
+There's a secondary villain tricked by Emlok named Adel (an adelie penguin)
+
+
 ## WORLDS
 
-World 1 is Icy Island. (II Castle will be based on the ice mechanic and the sliding mechanic and will be named Slippery Fortress) (II Boss is Yeti. He will not have his Pinch Mode and he will just be 3 lives) (This has been finished!)
+World 1 is Icy Island. (II Castle will be based on the ice mechanic and the sliding mechanic and will be named Slippery Fortress) (II Boss is Yeti. He will not have his Pinch Mode and he will just be 3 lives)
 
-World 2 is Giant Sewers (GS Castle will be based on entering pipes and swimming) (GS Boss is undecided)
+World 2 is Sickly Sewers (SS Castle will be based on entering pipes and swimming) (SS Boss is undecided)
 
-World 3 is Poisonous Desert (PD Castle will be based on rising poison) (PD Boss is undecided but might be a poison monster thingy)
+World 3 is Deserted Desert (DD Castle will be based on rising poison) (DD Boss is undecided but might be a poison monster thingy)
 
-World 4 is Crystal Cave (The final level of it is not a castle, instead, it will have the player collecting crystals and getting the Super Flower, which allows Tux to shoot blue fire that can literally just kill anything (not including bosses), however, getting hit while being "Super Tux" will turn Tux into Small Tux)
+World 4 is Crystal Cave (The final level of it is not a castle)
 
 ## WORLDS (PAST)
 
