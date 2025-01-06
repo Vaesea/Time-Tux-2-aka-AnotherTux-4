@@ -17,12 +17,11 @@ The new images in AnotherTux are either from the SuperTux Media repository on Gi
 * images/objects/conveyor_belt/* - submitted by RodirodDude CC BY-NC 4.0
 * images/decals/snowtree*.png - from the SuperTux Media Repository, https://github.com/SuperTux/media, licensed under whatever license it's under, the license is unclear.
 * images/tiles/stone/main.png + images/tiles/stone/connect.png - GIMP (Gnu Image Manipulation Program), Sophie "Vaesea" Ball, https://www.gimp.org/, licensed under GNU GPL v3 + Later versions of the GNU GPL. The dark stuff on the edges of these tiles aren't in the original "slate" pattern, and it's also blurred, but the images do use the slate pattern.
+* images/tiles/present/pipes/*.png - from OpenGameArt, made by Kelvin Shadewing, although they have been edited here. https://opengameart.org/content/16-bit-pipes, kelvinshadewing.net. Licensed under CC-BY-SA 4.0 and GPL 3.0
 
 == Levels ==
 
 The license should be included in the file itself.
-
-Test levels are created by SuperTux developers to test specific code and so are under the GPL.
 
 == Locale ==
 
@@ -39,8 +38,6 @@ License should be included with them.
 * bossattack07.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 
 * darkcastle.ogg - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0, GPL v3
-
-* the_fortress.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 
 * dfk_symphonic.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 
@@ -59,18 +56,6 @@ License should be included with them.
 * thebeginning.ogg - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0, GPL v3
 
 * 69027-at_the_top.ogg - By Zilly Mike on modarchive.org, https://modarchive.org/index.php?request=view_by_moduleid&query=169999, licensed under CC-BY-4.0
-
-== Music - Past ==
-
-* chipdiskoremix.ogg - Mortimer's Chipdisko by Lukas Nystrand as Mortimer Twang, remix (chipdiskoremix.ogg) by Sophie "Vaesea" Ball, based on a midi by Nathan "Chitan" Lieb, licensed under CC-BY-SA + GPL and/or whatever the midi is licensed under.
-
-* the_cave.ogg - created by wansti and licensed under GPLv2+CC-by-sa
-
-* bossattack07.ogg - created by wansti and licensed under GPLv2+CC-by-sa
-
-* the_fortress.ogg - created by wansti and licensed under GPLv2+CC-by-sa
-
-* dfk_symphonic.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 
 == Scripts ==
 

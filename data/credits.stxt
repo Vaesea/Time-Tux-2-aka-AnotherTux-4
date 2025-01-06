@@ -36,12 +36,8 @@
     )
 	(blank)
 	(person
-      (name "BLuRry")
-      (info (_ "The song named BLuRry XMas Jam. It's from Modarchive.org"))
-    )
-	(person
-      (name "JAM")
-      (info (_ "The song named Merry Christmas. It's from Modarchive.org"))
+      (name "Kelvin Shadewing, kelvinshadewing.net")
+      (info (_ "The pipe tiles. They have been recolored here but they are still the ones made by Kelvin Shadewing on OpenGameArt"))
     )
     (blank)
 	(person
